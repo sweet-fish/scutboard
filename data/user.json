@@ -91,14 +91,6 @@
 	{"nickname":"NULL11","username":"user089","official":1,"gender":0},
 	{"nickname":"NULL12","username":"user090","official":1,"gender":0},
 	{"nickname":"NULL13","username":"user091","official":1,"gender":0},
-	{"nickname":"NULL14","username":"user092","official":1,"gender":0},
-	{"nickname":"NULL15","username":"user093","official":1,"gender":0},
-	{"nickname":"NULL16","username":"user094","official":1,"gender":0},
-	{"nickname":"NULL17","username":"user095","official":1,"gender":0},
-	{"nickname":"NULL18","username":"user096","official":1,"gender":0},
-	{"nickname":"NULL19","username":"user097","official":1,"gender":0},
-	{"nickname":"NULL20","username":"user098","official":1,"gender":0},
-	{"nickname":"NULL21","username":"user099","official":1,"gender":0},
-	{"nickname":"NULL22","username":"user100","official":1,"gender":0}
+	{"nickname":"NULL14","username":"user092","official":1,"gender":0}
 	]
 }
